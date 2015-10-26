@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "async": "1.x",
+    "debug": "2.x",
+    "marked": "0.x",
     "newrelic": "*",
+    "object-path": "0.x",
+    "randomstring": "1.x",
     "request": "*",
     "gm": "*"
   }
